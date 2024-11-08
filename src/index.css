@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+
+    font-family: "Itim", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
